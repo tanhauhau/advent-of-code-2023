@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "JavaScript solution for Advent of Code 2023",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "keywords": [],
+  "author": "tanhauhau",
+  "license": "MIT"
+}
